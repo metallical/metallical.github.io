@@ -1,6 +1,36 @@
 html, body {
-  background: #181818;
+  background:#000000;
   font-family: 'Lato', helvetica, arial, sans-serif;
   font-size: 16px;
-  color: #add8e6;
+  color: #FFFFFF ;
 }
+#resume {
+	width: 90%;
+	max-width: 1000px;
+	background: #173f5f;
+	margin: 30px auto;
+}
+
+#name h1{
+	font-size: 50px;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+
+#name h2{
+	font-size: 24px;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+
+#contactDetails{
+  font-size: 14px;
+}
+
+ .mainDetails{
+   text-align: center;
+ }
+
+ #actualDetails{
+   margin: 40px auto;
+   text-align: left;
+   margin-left: 40px;
+ }
